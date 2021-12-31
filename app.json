@@ -2,15 +2,15 @@
   "name": "WebDLbot",
   "env": {
     "API_ID": {
-      "description": "Add your telegram API_ID",
+      "description": "17957769",
       "value": ""
     },
     "API_HASH": {
-      "description": "Add your telegram API_HASH",
+      "description": "0cfdea5ed128ed41fa08bc18a5eec6a2",
       "value": ""
     },
     "BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "5097854627:AAGcumLrxu--gbsCknLuAiOUffu0JmbEh34",
       "value": ""
 }
   },
